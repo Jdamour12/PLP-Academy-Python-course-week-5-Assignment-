@@ -1,0 +1,9 @@
+This is a line of text.
+The number 42 is the answer to life, the universe, and everything.
+All letters of English alphabets are 26 and 10 numbers.
+The number 444 is used to represent a man.
+I keen on python programming. Thank you!
+
+
+This is a first appended line of text.
+This is a second appended line of text.
